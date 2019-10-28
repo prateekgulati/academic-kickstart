@@ -18,27 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Software Engineer II"
+  company = "Dell"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bangalore, India"
+  date_start = "2017-07-10"
   date_end = ""
   description = """
-  Responsibilities include:
+  * Chat Assistant:
   
-  * Analysing
-  * Modelling
-  * Deploying
+	* Built the first chat assistant to be onboarded on Skype for Business within Dell IT across Globe. This bot deals with inventory related issues.
+	* Built a self sufficient portal to onboard a chatbot on Skype with minimal technical knowledge.
+  * Part of IT Patent Review Comittee FY19
+  * Solving problems in Supply Chain and doing POC as part of Quality Engineering Org
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Aspiring Minds"
+  company_url = "http://research.aspiringminds.com/"
+  location = "Gurgaon, India"
+  date_start = "2017-01-05"
+  date_end = "2017-06-04"
+  description = """
+  * Worked on Automatic Grading of Computer Programs: A Machine Learning Approach (published ICMLA 2013) and extended the research to multiple languages. 
+  * Implemented a parse tree based approach to extract features from uncompilable code snippet as well (Grading Uncompilable Programs - published AAAI 2019)."""
+  
+  [[experience]]
+  title = "Intern Undergrad Associate"
+  company = "Dell"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hyderabad, India"
+  date_start = "2016-05-15"
+  date_end = "2016-07-30"
+  description = """
+  * Built a dashboard webapp that helps an organization to establish, optimize, and sustain resource utilization. 
+  * Internnovation Finalist"""
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Videocon DTH"
+  company_url = ""
+  location = "Greater Noida, India"
+  date_start = "2015-06-15"
+  date_end = "2015-07-30"
+  description = """
+  Built a tele-recommendation system using collaborative filtering to enhance the user experience. """
 
 +++
